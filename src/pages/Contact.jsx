@@ -1,9 +1,8 @@
-
 function Contact() {
   return (
-    <div>
-      <h2>Contact Page</h2>
-      <p>Contact us for more information.</p>
+    <div className="text-center mt-10">
+      <h2 className="text-3xl font-bold text-purple-600">Contact Page</h2>
+      <p className="mt-3">Contact us for more information.</p>
     </div>
   );
 }

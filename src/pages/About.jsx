@@ -1,9 +1,8 @@
-
 function About() {
   return (
-    <div>
-      <h2>About Page</h2>
-      <p>This page contains information about us.</p>
+    <div className="text-center mt-10">
+      <h2 className="text-3xl font-bold text-green-600">About Page</h2>
+      <p className="mt-3">Learn more about us.</p>
     </div>
   );
 }
